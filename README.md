@@ -4,8 +4,7 @@
 
 **DevOps Engineer | AWS · Kubernetes · Terraform · CI/CD**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samar-akbari-a785692ab)
 ---
 
 ## About Me
