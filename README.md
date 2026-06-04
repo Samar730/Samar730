@@ -34,7 +34,7 @@ I'm a DevOps engineer specialising in cloud-native infrastructure on AWS, with a
 
 ## Projects
 
-### [EKS GitOps Platform — Production-Grade Kubernetes on AWS](https://github.com/Samar730/EKS-GitOps-Project)
+### [EKS GitOps Platform | Production-Grade Kubernetes on AWS](https://github.com/Samar730/EKS-GitOps-Project)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -65,7 +65,7 @@ A production-grade Kubernetes platform on AWS EKS hosting a self-hosted Memos no
 
 ---
 
-### [Gatus Monitoring — ECS Project](https://github.com/Samar730/ecs-gatus-monitoring)
+### [Production Monitoring Service | End-to-End ECS Fargate Deployment on AWS](https://github.com/Samar730/ecs-gatus)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
