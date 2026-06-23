@@ -51,15 +51,13 @@ A production-grade Kubernetes platform on AWS EKS hosting a self-hosted Memos no
 
 🔹 **Automated DNS and TLS** via ExternalDNS and CertManager
 
-🔹 **AWS Secrets Manager integration** via External Secrets Operator
+🔹 **AWS Secrets Manager** storing sensitive credentials, injected into pods via ESO
 
 🔹 **Full observability** with Prometheus and Grafana
 
 🔹 **5 GitHub Actions pipelines** with OIDC — zero static credentials
 
 🔹 **RDS PostgreSQL** as the managed database backend in private subnets
-
-🔹 **AWS Secrets Manager** storing sensitive credentials, injected into pods via ESO
 
 🔹 **Grype image scanning and Checkov IaC scanning** baked into CI
 
