@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a DevOps engineer specialising in cloud-native infrastructure on AWS, with a focus on infrastructure as code, container orchestration and automated delivery pipelines. I build environments that are reliable, scalable and fully automated — from provisioning to production.
+I'm a DevOps engineer specialising in cloud-native infrastructure on AWS, with a focus on infrastructure as code, container orchestration and automated delivery pipelines. I build environments that are reliable, scalable and fully automated from provisioning to production.
 
 ---
 
@@ -59,7 +59,7 @@ A production-grade Kubernetes platform on AWS EKS hosting a self-hosted Memos no
 
 🔹 **RDS PostgreSQL** as the managed database backend in private subnets
 
-🔹 **Grype image scanning and Checkov IaC scanning** baked into CI
+🔹 **Grype image scanning and Checkov IaC scanning** embedded into CI
 
 ---
 
